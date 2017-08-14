@@ -13,4 +13,10 @@ RAILWAY RESERVATION MANAGEMENT SYSTEM WITH RMI (REMOTE METHOD INVOCATION)
     <li>Package name for serverside and clientside must be same.</li>
     <li>Don't forget to create security policy.</li>
   </ol>
+  <li><b>How to run</b></li>
+  <ol>
+    <li>Run rmiregistery from external tools.</li>
+    <li>Run Server.</li>
+    <li>Run Client.</li>
+  </ol>
 </ol>
