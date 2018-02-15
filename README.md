@@ -4,7 +4,7 @@ RAILWAY RESERVATION MANAGEMENT SYSTEM WITH RMI (REMOTE METHOD INVOCATION)
 <ol>
   <li><b>Setup rmiregistry in eclipse</b></li>
   <ol>
-    <li>Follow this link : <a>https://www.cs.cornell.edu/~chinawat/teaching/2012a/rmi.html</a></li>
+    <li>Follow this link : <a>http://www.cs.cornell.edu/courses/cs2112/2012sp/labs/rmi.html</a></li>
     <li>Give path of serverside bin directory path in working directory box.</li>
   </ol>
   <li><b>ServerSide and ClientSide setup in eclipse</b></li>
